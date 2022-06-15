@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Farjana Aktar</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">Hi, I am Farjana.\n\n I am a Computer Science and Engineering Student of University of Rajshahi.\n\n 
+
+
+
+
+
+
+I alwasy want to learn something new. So, i will try to my best learn andriod stdio, becasue i realy like to do it.</string>
+    <string name="edit_name">What is your nick name..?</string>
+    <string name="done">Done</string>
+</resources>
